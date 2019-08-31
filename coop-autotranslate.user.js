@@ -292,6 +292,9 @@
         ["ばは", "Baha"],
         ["八八", "Baha"],
 
+        ["ルシファー", "Lucilius"],
+        ["ルシ", "Lucilius"],
+
         ["最終ソーン", "5★Song"],
         ["最終", "Final"],
         ["解放", "Uncapped"],
@@ -819,6 +822,8 @@
         ["ヘクトル", "Hector"],
         ["アヌビス", "Anubis"],
 
+        ["四大天司", "Four Primarchs"],
+        ["四大天使", "Four Primarchs"],
         ["天司", "Primarch"],
         ["ミカエル", "Michael"],
         ["ミカ", "Michael"],
