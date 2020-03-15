@@ -295,6 +295,8 @@
         ["ルシファー", "Lucilius"],
         ["ルシ", "Lucilius"],
 
+        ["リンドヴルム", "Lindwurm"],
+
         ["最終ソーン", "5★Song"],
         ["最終", "Final"],
         ["解放", "Uncapped"],
