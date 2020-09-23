@@ -937,6 +937,9 @@
         ["白銀の古紋", "SilverDisk"],
         ["黄金の古紋", "GoldDisk"],
 
+        ["フロネシス", "Phronesis"],
+        ["フロネ", "Phronesis"],
+
         ["ウィルナス", "Wilnas"],
         ["ワムデュス", "Wamdus"],
         ["ガレヲン", "Galleon"],
