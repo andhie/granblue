@@ -944,12 +944,13 @@
         ["黑", "Qilin"],
         ["黄龍", "Huanglong"],
         ["黄竜", "Huanglong"],
-        ["龍", "Huanglong"],
-        ["竜", "Huanglong"],
         ["黄色", "Yellow"],
         ["黄", "Yellow"],
         ["黄黒", "HuanglongQilin"],
         ["黄黑", "HuanglongQilin"],
+
+        ["龍", "Dragon"],
+        ["竜", "Dragon"],
 
         ["火", "Fire"],
         ["水", "Water"],
