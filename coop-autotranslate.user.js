@@ -937,6 +937,13 @@
         ["白銀の古紋", "SilverDisk"],
         ["黄金の古紋", "GoldDisk"],
 
+        ["ウィルナス", "Wilnas"],
+        ["ワムデュス", "Wamdus"],
+        ["ガレヲン", "Galleon"],
+        ["イーウィヤ", "Ewiyar"],
+        ["ル・オー", "LuWoh"],
+        ["フェディエル", "Fediel"],
+
         ["黒麒麟", "Qilin"],
         ["黑麒麟", "Qilin"],
         ["麒麟", "Qilin"],
